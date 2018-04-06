@@ -1,0 +1,26 @@
+{
+  "name": "prac",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "babel": "^6.23.0",
+    "google": "^2.1.0",
+    "google-map": "^1.1.0",
+    "google-maps": "^3.2.1",
+    "lodash": "^4.17.5",
+    "react": "^16.3.0",
+    "react-dom": "^16.3.0",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.1",
+    "react-sparklines": "^1.7.0",
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
